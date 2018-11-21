@@ -1,4 +1,4 @@
-//Decoding text
+//Encoding text
 import java.util.*;
 import java.io.File;
 import java.io.IOException;
